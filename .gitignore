@@ -2,5 +2,5 @@
 *.log
 *.so
 .~*
-.idea*
+.idea/
 matemc3a1ticas*
