@@ -1,6 +1,6 @@
 *~
-.idea
 *.log
 *.so
 .~*
-.*
+.idea/
+matemc3a1ticas*
