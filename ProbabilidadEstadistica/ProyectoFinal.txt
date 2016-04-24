@@ -1,0 +1,5 @@
+RB
+Probabilidad de que el jugador corredor logré X número de yardas por tierra, según los números de sus gorditos
+
+WR
+Probabilidad de que el jugador receptor 
