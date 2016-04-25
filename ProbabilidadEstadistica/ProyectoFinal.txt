@@ -1,5 +1,13 @@
 RB
-Probabilidad de que el jugador corredor logré X número de yardas por tierra, según los números de sus gorditos
+Probabilidad de que el jugador corredor logre X número de yardas por tierra según los números de sus gorditos.
 
 WR
-Probabilidad de que el jugador receptor 
+Probabilidad de que el jugador receptor logre X número de recepciones y YAC's según los números de su QB y de sus gorditos.
+
+QB
+Probabilidad de que el jugador Quarterback llegue a ser capturado, que pueda lanzar pases, que el pase sea cachado, que lance un pase de X número de yardas o que ese pase sea interceptado según la tendencia del Head Coach, del mismo Quarterback y de sus gorditos.
+
+------
+
+Defensa
+Dependiendo el equipo que haya, qué probabilidad hay de que X cantidad de puntos en contra, de que haya jugadas a favor (yardas negativas para el otro equipo), intercepciones o balones sueltos.
