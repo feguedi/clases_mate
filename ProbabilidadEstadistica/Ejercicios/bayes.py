@@ -1,8 +1,4 @@
-from math import fsum as sm
-
-"""contraseña campus virtual: 3st&pr0b4"""
-
-"""¿Cuál es la probabilidad de que, el elegir un diputado que no es sindicalista, seal del PRD o del verde?"""
+"""¿Cuál es la probabilidad de que, al elegir un diputado que no es sindicalista, sea del PRD o del verde?"""
 
 porc = {
     'PRI': 0.63,
@@ -19,12 +15,13 @@ sind = {
 }
 
 
-def form(a, b):
-    return (sind[a] + porc[b]) / (porc[a] * porc[b])
+def oper(a, b):
+    return a / b
 
 if __name__ == '__main__':
-    """for i in sind.items():
-        for j in porc.items():
-            print(form(i, j))"""
-    for i in porc.items():
-        print(sm(sind[i]))
+    y = 1.0
+    for n in sind.items():
+        y -= n
+
+    # Probabilidad de que sea del Verde
+    print('x')
