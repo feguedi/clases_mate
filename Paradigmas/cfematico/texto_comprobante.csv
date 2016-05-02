@@ -1,0 +1,51 @@
+COMISION FEDERAL DE ELECTRICIDAD
+RFC: CFE-370814-QI0
+AV. PASEO DE LA REFORMA 164, COL. JUAREZ
+MEXICO, D.F., C.P. 06600
+DIVISION: BAJIO
+ZONA: QUERETARO
+SUCURSAL: SANTIAGO DE QUERETARO
+CAJERO #MIL8MIL
+
+FECHA:  {0}    HORA:   {1}
+----------------------------------------
+COMPROBANTE DE PAGO
+----------------------------------------
+NOMBRE: {2}
+DIRECCION: {3}
+POBLACION: {4}
+CUENTA: {5}
+NUMERO DE SERVICIO: {6}
+NUMERO DE MEDIDOR: {7}
+TARIFA: 01  HILOS: 1
+
+----------------------------------------
+DESCRIPCION DEL CONCEPTO    IMPORTES
+----------------------------------------
+FECHA DE FACTURACION:  {8}
+LIQUIDACION DE ADEUDO  {9}
+----------------------------------------
+
+ENERGIA.........(+)    {10}
+IVA.............(+)    {11}
+DAP.............(+)    {12}
+                       -----------------
+GRAN TOTAL             {13}
+DEPOSITADO......(-)    {14}
+                       -----------------
+CAMBIO.............    {15}
+
+
+SON: {16}
+00/100 M. N.
+
+
+FACTURA                       IMPORTE
+----------------------------------------
+{17}   {13}
+
+
+GRACIAS POR PREFERIR CFEMATICO
+ESPERAMOS SERVIRLE DE NUEVO MUY PRONTO
+SUGERENCIAS Y COMENTARIOS FAVOR DE
+MARCAR AL TELEFONO: 071
