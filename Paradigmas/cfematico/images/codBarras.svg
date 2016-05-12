@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg6495"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="codBarras.svg">
+  <defs
+     id="defs6497" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="524.93638"
+     inkscape:cy="585.43791"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6500">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362139)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4456"
+       style="fill:#4578c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 567.50717,912.35865 45.00741,0 0,-719.99302 -45.00741,0 0,719.99302 z m 90.02275,0 112.52629,0 0,-719.99302 -112.52629,0 0,719.99302 z m 157.54163,0 45.00741,0 0,-719.99302 -45.00741,0 0,719.99302 z m 134.99867,-719.99302 -45.00742,0 0,719.99302 45.00742,0 c 24.84607,0 45.01533,-19.65042 45.01533,-44.80308 l 0,-630.38686 c 0,-24.36647 -20.16926,-44.80308 -45.01533,-44.80308 z m -720.0951,719.99302 44.98383,0 0,-719.99302 -44.98383,0 0,719.99302 z M 4.9144461,237.16871 l 0,630.38686 c 0,25.15266 20.1770049,44.80308 45.0151589,44.80308 l 0,-719.99302 c -24.838154,0 -45.0151589,20.43661 -45.0151589,44.80308 z m 90.0304979,675.18994 90.022756,0 0,-719.99302 -90.022756,0 0,719.99302 z m 225.021426,0 112.53421,0 0,-719.99302 -112.53421,0 0,719.99302 z m 157.54162,0 45.01534,0 0,-719.99302 -45.01534,0 0,719.99302" />
+  </g>
+</svg>
