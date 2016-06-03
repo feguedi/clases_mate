@@ -94,7 +94,7 @@ class ui_mainwindow(QWidget):
         sizePolicy.setHeightForWidth(self.pushButton_3.sizePolicy().hasHeightForWidth())
         self.pushButton_3.setSizePolicy(sizePolicy)
         self.pushButton_3.setStyleSheet("QPushButton{\n"
-                                        "background-color: #000000ff\n"
+                                        "background-color: #000000\n"
                                         "}")
         self.pushButton_3.setText("")
         icon1 = QtGui.QIcon()
